@@ -20,6 +20,7 @@
         <li>Muse SDK</li>
         <li>Machine Learning (LSTM)</li>
     </ul>
+    <h3>Project link: https://github.com/noraalissa13/SADA_desktop.git</h3>
     <h2>2. <strong>FamilyConnect Pro</strong></h2>
     <p>
         FamilyConnect Pro is a mobile app designed to help families manage schedules, track activities, and stay connected. 
@@ -29,8 +30,8 @@
     <h3>Technologies Used:</h3>
     <ul>
         <li>Flutter (Dart)</li>
-        <li>Firebase (Authentication, Firestore)</li>
-        <li>SQLite (Local Database)</li>
+        <li>Firebase (Authentication, Firestore Database)</li>
     </ul>
+    <h3>Project link: https://github.com/noraalissa13/Bingsu_GroupProject.git</h3>
 </body>
 </html>
