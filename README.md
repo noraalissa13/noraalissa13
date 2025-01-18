@@ -13,12 +13,24 @@
         By using EEG data and LSTM models, it provides insights to help address attention deficits in educational settings, 
         with a user-friendly interface built in Flutter and a robust Python backend.
     </p>
+    <h3>Technologies Used:</h3>
+    <ul>
+        <li>Python (Quart, NumPy, SciPy, Scikit-learn)</li>
+        <li>Flutter (Dart)</li>
+        <li>Muse SDK</li>
+        <li>Machine Learning (LSTM)</li>
+    </ul>
     <h2>2. <strong>FamilyConnect Pro</strong></h2>
     <p>
         FamilyConnect Pro is a mobile app designed to help families manage schedules, track activities, and stay connected. 
         It features user authentication, personalized member profiles, schedule management, and reminder setting. 
         Developed using Dart and Flutter, it provides an intuitive interface to streamline family communication and organization.
     </p>
-
+    <h3>Technologies Used:</h3>
+    <ul>
+        <li>Flutter (Dart)</li>
+        <li>Firebase (Authentication, Firestore)</li>
+        <li>SQLite (Local Database)</li>
+    </ul>
 </body>
 </html>
