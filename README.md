@@ -6,7 +6,7 @@
 </head>
 <body>
     <h1>My GitHub Projects</h1>
-    <p>This repository showcases two of my major projects:</p>
+    <p>This repository showcases two of my projects:</p>
     <h2>1. <strong>SADA: A BCI-Based Student Attention Deficit Alert and Profiling System</strong></h2>
     <p>
         SADA combines Brain-Computer Interface (BCI) technology and machine learning to monitor and analyze students' attention levels in real time. 
